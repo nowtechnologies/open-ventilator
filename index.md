@@ -51,13 +51,35 @@ The available possibilites for patients who does have spontaneous breathing are 
   
   
   
-## The patient has spontaneous breathing and breathing support is enough
+## Pressure control mode - the patient has spontaneous breathing
+As already described at the pressure control mode section in this mode a max. pressure is maintaned for a couple of seconds, then the pressure is decreased to the level of min. pressure. Since, the min. pressure is not zero, the lung is always inflated and the alveoli can't collapse. Disadvantage of the pressure control is, that if the patient has spontaneous breathing, it might not match the patients breathing rhythm and it can cause anxiety. In worst case,(e.g. coughing) it can damage the lungs of the patient. 
+Therefore, if a patients has spontaneous breathing APRV or bilevel pressure control mode is used. 
 
-
-
-  2. CPAP device - good solution if available, by keeping a constant positive pressure, it prevents the alveoli from collapsing. **Important to use filters and masks with CPAP machines otherwise the virus is ventilated from the machine or patient into the air!!**
+APRV is a lung protective control mode that is suitable for patients with ARDS.  It protects lung from exceeding high pressure and the patient can breath freely.
 
 ![APRV and bilevel](/aprv_bilevel.png)[Source: Medmastery-mechanical-ventilation-essentials](https://www.medmastery.com/course/mechanical-ventilation-essentials)
+
+
+### Ventilation possibilities when the patient has spontaneus breathing ###
+
+![Ventilation_possibilites_overview](/no_spontaneous_breathing.png)
+
+
+I. Volume control mode:
+  1. Medical ventilator - best solution if available
+  2. Ambu bag/ bag valve mask - hand-held - This solution is possible only if enough personnel is available and it was designed to be used only for a couple of hours. 
+  3. Ambu bag/ bag valve mask - motorized - There are hundreds of solutions motorizing Ambu bags. **This is an extremely high risk solution if the patient has spontaneous breathing!  In addition to the fact that Ambu bag is designed to be used for a couple of hours, when the patient is coughing or breathing in other rhythm it can damage the lungs!**
+
+
+II. Pressure control mode:
+  1. Medical ventilator - best solution if available
+  2. CPAP device - good solution if available, by keeping a constant positive pressure, it prevents the alveoli from collapsing. **Important to use filters and masks with CPAP machines otherwise the virus is ventilated from the machine or patient into the air!!**
+  3. Ambu bag/ bag valve mask - motorized - with pressure sensors - In order to keep a constant higher and lower positive pressure the Ambu bag needs to be compressed. When the Ambu bag is empty it needs to be inflated. This results in a negative pressure, what needs to be done really fast to avoid collapsing of the alveoli in the lungs. This might work, but it would result in a complex system based on multiple sensors, which works only within given pressure and time values. Keeping in mind, that an Ambu bag works only for couple of hours, our conclusion is that an air pump system can provide a safer and a more stable solution. Therefore, the time spend on developing a ventilator solution should be focused on developing an air pump system with sensors and filters.
+  3. Air pump with sensors and filters - good solution, if tested and clinically approved. Best and safest solution is developed at the TU Delft: [operationair](https://www.operationair.org/en)
+
+
+
+
 
 
 
