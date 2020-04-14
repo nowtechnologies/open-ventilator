@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Ventilator
-subtitle: Collection of useful information before building a COVID ventilator
+subtitle: Useful information before building a COVID ventilator
 ---
 
 
