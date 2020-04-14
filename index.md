@@ -46,9 +46,9 @@ II. Pressure control mode:
   
   When the patient has no spontaneous breathing, using any other device than a medical ventilator is risky.
   
-  **Therefore, we suggest, to use alternative solutions on patients, who does have spontaneous breathing as an additional support.** 
+  **Therefore, we suggest, to use alternative solutions on patients, who does have spontaneous breathing as an additional support.This way, the recovering patients can be removed from the medical ventilators, and the ventilators can be used on patients who are in worse condition.**
+The available possibilites for patients who does have spontaneous breathing are discussed in the next section.
   
-This way, the recovering patients can be removed from the medical ventilators, and the ventilators can be used on patients who are in worse condition.The available possibilites for patients who does have spontaneous breathing are discussed in the next section.
   
   
 ## The patient has spontaneous breathing and breathing support is enough
