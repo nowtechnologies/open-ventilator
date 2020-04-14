@@ -8,10 +8,11 @@ subtitle: Collection of useful information before building a COVID ventilator
 In the last couple of weeks hundreds of engineers and hobbists were coming up with creative solutions to help to fight Covid-19 and save human lifes. We also tried to come up with safe alternatives and we would like to share our conclusions, which might be useful for others. 
 
 ## Recommendation ##
-For Covid-19 patients pressure control mode should be used instead of volume control to  protect lungs. If the patient has spontaneous breathing APRV or bilevel or CPAP methods are the most lung protective modes.
+
+**For Covid-19 patients pressure control mode should be used instead of volume control to  protect lungs. If the patient has spontaneous breathing APRV or bilevel or CPAP methods are the most lung protective modes.
 When the patient has no breathing a medical ventilator should be used. When the patient has spontaneous breathing can be ventilated using a CPAP machine or an air pump system developed by TU Delft. 
 Note: The CPAP machines need to have a filter to avoid ventilating the virus into the air. 
-Note: The device developed by TU Delft is in the phase of clinical testing, as soon as it passes the tests, all the necessary files will be shared on their [website.](https://www.operationair.org/)
+Note: The device developed by TU Delft is in the phase of clinical testing, as soon as it passes the tests, all the necessary files will be shared on their [website.](https://www.operationair.org/)**
 
 
 ## 1. Mechanical ventilation essentials
