@@ -84,7 +84,7 @@ II. Pressure control mode:
   3. Air pump with sensors and filters - good solution, if tested and clinically approved. Best and safest solution is developed at the TU Delft: [operationair](https://www.operationair.org/en)
   
   
-  ## 5. Recommendation ##
+ ## 5. Recommendation ##
   
   For Covid-19 patients pressure control mode should be used instead of volume control to  protect lungs. If the patient has spontaneous breathing APRV or bilevel or CPAP methods are the most lung protective modes.
 When the patient has no breathing a medical ventilator should be used. When the patient has spontaneous breathing can be ventilated using a CPAP machine or an air pump system developed by TU Delft. 
