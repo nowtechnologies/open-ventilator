@@ -35,15 +35,15 @@ Disadvantage of the pressure control is, that if the patient has spontaneous bre
 
 When the patient has no spontaneous breathing there are the following possibilities:
 I. Volume control mode:
-1.Medical ventilator - best solution if available
-2. Ambu bag/ bag valve mask - hand-held - This solution is possible only if enough personnel is available and it was designed to be used only for a couple of hours. 
-3. Ambu bag/ bag valve mask - motorized - There are hundreds of solutions motorizing Ambu bags. What should be kept in mind, that the Ambu bag is designed to be used for a couple of hours. This means, that they need to be continously monitored by the personnel to detect in time if the bag needs to be changed. This is a high risk solution! 
+  1. Medical ventilator - best solution if available
+  2. Ambu bag/ bag valve mask - hand-held - This solution is possible only if enough personnel is available and it was designed to be used only for a couple of hours. 
+  3. Ambu bag/ bag valve mask - motorized - There are hundreds of solutions motorizing Ambu bags. What should be kept in mind, that the Ambu bag is designed to be used for a couple of hours. This means, that they need to be continously monitored by the personnel to detect in time if the bag needs to be changed. This is a high risk solution! 
 In addition, pressure control mode is more lung protective, this mode can casue damage to the lungs.
 Although if this is the last solution, then probably the best solution is provided by the [oxygen.protofy.xyz](https://www.oxygen.protofy.xyz/)
 
 II. Pressure control mode:
-1.Medical ventilator - best solution if available
-2. CPAP device - 
+  1. Medical ventilator - best solution if available
+  2. CPAP device - 
 
 ## The patient has spontaneous breathing and breathing support is enough
 
