@@ -15,5 +15,5 @@ Options:
 ### my history
 Include image 
 
-![Ventilator overview](reka-berci-hajnovics.github.io/ventilator.jpg)
+![Ventilator overview](/ventilator.jpg)
 
