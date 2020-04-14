@@ -44,7 +44,11 @@ II. Pressure control mode:
   1. Medical ventilator - best solution if available
   2. Air pump with sensors and filters - good solution, if tested and clinically approved. Best and safest solution is developed at the TU Delft: [operationair](https://www.operationair.org/en)
   
-  When the patient has no spontaneous breathing, using any other device than a medical ventilator is risky. **Therefore, we suggest, to use alternative solutions on patients, who does have spontaneous breathing as an additional support.** This way, the recovering patients can be removed from the medical ventilators, and the ventilators can be used on patients who are in worse condition.The available possibilites for patients who does have spontaneous breathing are discussed in the next section.
+  When the patient has no spontaneous breathing, using any other device than a medical ventilator is risky.
+  
+  **Therefore, we suggest, to use alternative solutions on patients, who does have spontaneous breathing as an additional support.** 
+  
+This way, the recovering patients can be removed from the medical ventilators, and the ventilators can be used on patients who are in worse condition.The available possibilites for patients who does have spontaneous breathing are discussed in the next section.
   
   
 ## The patient has spontaneous breathing and breathing support is enough
