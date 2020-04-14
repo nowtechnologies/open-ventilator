@@ -16,17 +16,22 @@ Link to the course:
 ## Volume versus pressure control
 When using mechanical ventilation volume control mode and pressure control modes are available.  Patients with COVID-19 have acute respiratory syndrome (ARDS). In ARDS the alveoli of the lungs are affected. **When treating patients with lung disease such as ARDS it is common to switch to pressure control mode, because it is more lung protective!**
 
-![ARDS](/ards.png)Source:[Medmastery-mechanical-ventilation-essentials](https://www.medmastery.com/course/mechanical-ventilation-essentials)
+![ARDS](/ards.png)[Source: Medmastery-mechanical-ventilation-essentials](https://www.medmastery.com/course/mechanical-ventilation-essentials)
 
 
 The pressure control mode and why is it suitable for patients with ARDS is explained in the next section.
 
 
 ## Pressure control mode - the patient has no spontaneous breathing
-
-
+At pressure control mode a max. pressure is maintaned for a couple of seconds, this is the inhalation. Then the pressure is decreasing to the level of min. pressure, this is the exhalation part. Since, the min. pressure is not zero, the lung is always inflated and the alveoli can't collapse.
 
 ![Pressure control](/pressure_control.png)
+
+Disadvantage of the pressure control is, that if the patient has spontaneous breathing, it might not match the patients breathing rhythm and it can cause anxiety. In worst case,(e.g. coughing) it can damage the lungs of the patient.
+
+**Ventilation possibilities when the patient has no spontaneus breathing:**
+
+
 
 
 ## The patient has spontaneous breathing and breathing support is enough
