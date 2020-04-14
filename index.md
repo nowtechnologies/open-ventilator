@@ -69,7 +69,7 @@ APRV is a lung protective control mode that is suitable for patients with ARDS. 
 
 ### Ventilation possibilities when the patient has spontaneus breathing ###
 
-![Ventilation_possibilites_overview](/no_spontaneous_breathing.png)
+![Ventilation_possibilites_overview](/spontaneous_breathing.png)
 
 
 I. Volume control mode:
