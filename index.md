@@ -82,14 +82,15 @@ II. Pressure control mode:
   2. CPAP device - good solution if available, by keeping a constant positive pressure, it prevents the alveoli from collapsing. **Important to use filters and masks with CPAP machines otherwise the virus is ventilated from the machine or patient into the air!!**
   3. Ambu bag/ bag valve mask - motorized - with pressure sensors - In order to keep a constant higher and lower positive pressure the Ambu bag needs to be compressed. When the Ambu bag is empty it needs to be inflated. This results in a negative pressure, what needs to be done really fast to avoid collapsing of the alveoli in the lungs. This might work, but it would result in a complex system based on multiple sensors, which works only within given pressure and time values. Keeping in mind, that an Ambu bag works only for couple of hours, our conclusion is that an air pump system can provide a safer and a more stable solution. Therefore, the time spend on developing a ventilator solution should be focused on developing an air pump system with sensors and filters.
   3. Air pump with sensors and filters - good solution, if tested and clinically approved. Best and safest solution is developed at the TU Delft: [operationair](https://www.operationair.org/en)
+
+
+## 5. Recommendation ##
   
-  
- ## 5. Recommendation ##
-  
-  For Covid-19 patients pressure control mode should be used instead of volume control to  protect lungs. If the patient has spontaneous breathing APRV or bilevel or CPAP methods are the most lung protective modes.
+For Covid-19 patients pressure control mode should be used instead of volume control to  protect lungs. If the patient has spontaneous breathing APRV or bilevel or CPAP methods are the most lung protective modes.
 When the patient has no breathing a medical ventilator should be used. When the patient has spontaneous breathing can be ventilated using a CPAP machine or an air pump system developed by TU Delft. 
 Note: The CPAP machines need to have a filter to avoid ventilating the virus into the air. 
 Note: The device developed by TU Delft is in the phase of clinical testing, as soon as it passes the tests, all the necessary files will be shared on their website. [operationair](https://www.operationair.org/)
+
 
 
 
