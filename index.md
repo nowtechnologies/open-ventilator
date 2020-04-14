@@ -31,7 +31,7 @@ Disadvantage of the pressure control is, that if the patient has spontaneous bre
 
 **Ventilation possibilities when the patient has no spontaneus breathing:**
 
-
+![Ventilation_possibilites_overview](/no_spontaneous_breathing.png)
 
 
 ## The patient has spontaneous breathing and breathing support is enough
