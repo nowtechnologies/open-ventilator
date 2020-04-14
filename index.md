@@ -18,12 +18,14 @@ When using mechanical ventilation volume control mode and pressure control modes
 
 ![ARDS](/ards.png)
 
+The pressure control mode and why is it suitable for patients with ARDS is explained in the next section.
 
 
-## The patient is intubated / has no spontaneous breathing
+## Pressure control mode - the patient has no spontaneous breathing
 
 
 ![Pressure control](/pressure_control.png)
+
 
 ## The patient has spontaneous breathing and breathing support is enough
 
