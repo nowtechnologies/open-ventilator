@@ -16,7 +16,7 @@ Note2: The device developed by TU Delft is in the phase of clinical testing, as 
 
 
 ## 1. Mechanical ventilation essentials
-To get a better understanding of the topic, I've followed an online course (it's free for the duration of COVID-19 outbreak) made for professionals. The course takes about 2 hours, and it walks through the different types of ventilation controls, explains the ventilator parameters, talks about ARDS and pressure control as well.
+To get a better understanding of the topic, I've followed an online course made for professionals (it's free for the duration of COVID-19 outbreak). The course takes about 2 hours, and it walks through the different types of ventilation controls, explains the ventilator parameters, talks about ARDS and pressure control as well.
 Link to the course:
 [Medmastery-mechanical-ventilation-essentials](https://www.medmastery.com/course/mechanical-ventilation-essentials)
 
