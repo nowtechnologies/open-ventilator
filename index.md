@@ -23,7 +23,7 @@ Link to the course:
 ## 2. Volume versus pressure control
 When using mechanical ventilation volume control mode and pressure control modes are available.  Patients with COVID-19 have acute respiratory syndrome (ARDS). In ARDS the alveoli of the lungs are affected. **When treating patients with lung disease such as ARDS it is common to switch to pressure control mode because it is more lung-protective!**
 
-![ARDS](/ards.png)[Source: Medmastery-mechanical-ventilation-essentials](https://www.medmastery.com/course/mechanical-ventilation-essentials)
+![ARDS](/_images/ards.png)[Source: Medmastery-mechanical-ventilation-essentials](https://www.medmastery.com/course/mechanical-ventilation-essentials)
 
 
 The pressure control mode and why is it suitable for patients with ARDS is explained in the next section.
@@ -32,13 +32,13 @@ The pressure control mode and why is it suitable for patients with ARDS is expla
 ## 3. Pressure control mode - the patient has no spontaneous breathing
 At pressure control mode a max. the pressure is maintained for a couple of seconds, this is the inhalation. Then the pressure is decreasing to the level of min. pressure, this is the exhalation part. Since, the min. the pressure is not zero, the lung is always inflated and the alveoli can't collapse.
 
-![Pressure control](/pressure_control.png)[Source: Medmastery-mechanical-ventilation-essentials](https://www.medmastery.com/course/mechanical-ventilation-essentials)
+![Pressure control](/_images/pressure_control.png)[Source: Medmastery-mechanical-ventilation-essentials](https://www.medmastery.com/course/mechanical-ventilation-essentials)
 
 The disadvantage of the pressure control is, that if the patient has spontaneous breathing, it might not match the patients breathing rhythm and it can cause anxiety. In the worst case,(e.g. coughing) it can damage the lungs of the patient.
 
 ### Ventilation possibilities when the patient has no spontaneous breathing ###
 
-![Ventilation_possibilites_overview](/no_spontaneous_breathing.png)
+![Ventilation_possibilites_overview](/_images/no_spontaneous_breathing.png)
 
 
 I. Volume control mode:
@@ -64,12 +64,12 @@ Therefore, if a patient has spontaneous breathing APRV or bilevel pressure contr
 
 APRV is a lung-protective control mode that is suitable for patients with ARDS.  It protects lung from exceeding high pressure and the patient can breathe freely.
 
-![APRV and bilevel](/aprv_bilevel.png)[Source: Medmastery-mechanical-ventilation-essentials](https://www.medmastery.com/course/mechanical-ventilation-essentials)
+![APRV and bilevel](/_images/aprv_bilevel.png)[Source: Medmastery-mechanical-ventilation-essentials](https://www.medmastery.com/course/mechanical-ventilation-essentials)
 
 
 ### Ventilation possibilities when the patient has spontaneous breathing ###
 
-![Ventilation_possibilites_overview](/spontaneous_breathing.png)
+![Ventilation_possibilites_overview](/_images/spontaneous_breathing.png)
 
 
 I. Volume control mode:

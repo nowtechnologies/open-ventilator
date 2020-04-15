@@ -1,13 +1,3 @@
-
-<p align="center">
-  <a href="https://github.com/sponsors/daattali">
-    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
-  </a>
-</p>
-
-
-
-
 In the last couple of weeks, hundreds of engineers and hobbyists were coming up with creative solutions to help to fight COVID-19 and save human lives. We also tried to come up with safe alternatives and we would like to share our conclusions, which might be useful for others. 
 
 ## Recommendation ##
@@ -98,7 +88,7 @@ Note: The device developed by TU Delft is in the phase of clinical testing, as s
 
 
 
-# Beautiful Jekyll
+### Website template: Beautiful Jekyll ###
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
