@@ -43,12 +43,15 @@ The disadvantage of the pressure control is, that if the patient has spontaneous
 
 I. Volume control mode:
   1. Medical ventilator - best solution if available
+  
   2. Ambu bag/ bag valve mask - hand-held - This solution is possible only if enough personnel is available and it was designed to be used only for a couple of hours. 
+  
   3. Ambu bag/ bag valve mask - motorized - There are hundreds of solutions motorizing Ambu bags. **This is a high-risk solution!  It should be kept in mind, that the Ambu bag is designed to be used for a couple of hours. This means, that they need to be continuously monitored by the personnel to detect in time if the bag needs to be changed. Besides, the pressure control mode is more lung-protective, this mode can cause damage to the lungs.**
 Although if this is the last solution, then probably the best solution is provided by the [oxygen.protofy.xyz](https://www.oxygen.protofy.xyz/)
 
 II. Pressure control mode:
   1. Medical ventilator - best solution if available
+  
   2. Air pump with sensors and filters - good solution, if tested and clinically approved. The best and safest solution is developed at the TU Delft: [operationair](https://www.operationair.org/en)
   
   When the patient has no spontaneous breathing, using any other device than a medical ventilator is risky.
