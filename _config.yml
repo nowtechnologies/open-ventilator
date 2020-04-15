@@ -19,9 +19,9 @@ description: Collection of useful information before starting to build a COVID v
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  En: "index"
-  Hu: "hungarian_version"
+#navbar-links:
+#  En: "index"
+#  Hu: "hungarian_version"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
