@@ -5,7 +5,7 @@ subtitle: Useful information before building a COVID ventilator
 ---
 
 
-In the last couple of weeks, hundreds of engineers and hobbyists were coming up with creative solutions to help to fight COVID-19 and save human lives. We also tried to come up with safe alternatives and we would like to share our conclusions, which might be useful for others. 
+In the last couple of weeks, hundreds of engineers and hobbyists were coming up with creative solutions to help to fight COVID-19 and save human lives. We also tried to come up with safe alternatives to ventilators and we would like to share our conclusions, which might be useful for others. 
 
 ## Recommendation ##
 
