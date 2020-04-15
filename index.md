@@ -29,12 +29,12 @@ When using mechanical ventilation volume control mode and pressure control modes
 The pressure control mode and why is it suitable for patients with ARDS is explained in the next section.
 
 
-## 3. Pressure control mode - the patient has no spontaneous breathing
-At pressure control mode a max. the pressure is maintained for a couple of seconds, this is the inhalation. Then the pressure is decreasing to the level of min. pressure, this is the exhalation part. Since, the min. the pressure is not zero, the lung is always inflated and the alveoli can't collapse.
+## 3. Pressure control mode when the patient has no spontaneous breathing
+At pressure control mode a maximum pressure is maintained for a couple of seconds, this is the inhalation. Then the pressure is decreasing to the level of min. pressure, this is the exhalation part. Since, the minimum pressure is not zero, the lung is always inflated and the alveoli can't collapse.
 
 ![Pressure control](img/pressure_control.png)[Source: Medmastery-mechanical-ventilation-essentials](https://www.medmastery.com/course/mechanical-ventilation-essentials)
 
-The disadvantage of the pressure control is, that if the patient has spontaneous breathing, it might not match the patients breathing rhythm and it can cause anxiety. In the worst case,(e.g. coughing) it can damage the lungs of the patient.
+The disadvantage of the pressure control is, that if the patient has spontaneous breathing, it might not match the patients breathing rhythm and it can cause anxiety. In the worst case e.g. coughing, it can damage the lungs of the patient.
 
 ### Ventilation possibilities when the patient has no spontaneous breathing ###
 
