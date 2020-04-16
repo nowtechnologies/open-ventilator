@@ -1,4 +1,4 @@
-In the last couple of weeks, hundreds of engineers and hobbyists were coming up with creative solutions to help to fight COVID-19 and save human lives. We also tried to come up with safe alternatives and we would like to share our conclusions, which might be useful for others: [https://nowtechnologies.github.io/open_ventilator/](https://nowtechnologies.github.io/open_ventilator/)
+In the last couple of weeks, hundreds of engineers and hobbyists were coming up with creative solutions to help to fight COVID-19 and save human lives. We also tried to come up with safe alternatives and we would like to share our conclusions, which might be useful for others: [https://reka-berci-hajnovics.github.io/open-ventilator/](https://reka-berci-hajnovics.github.io/open-ventilator/)
 
 ## Recommendation ##
 
