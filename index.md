@@ -9,7 +9,7 @@ In the last couple of weeks, hundreds of engineers and hobbyists were coming up 
 
 ## Recommendation ##
 
-**For COVID-19 patients pressure control mode should be used instead of the volume control mode to protect lungs. If the patient has spontaneous breathing APRV or bilevel or CPAP methods are the most lung-protective modes.
+**For COVID-19 patients pressure control mode should be used instead of the volume control mode to protect the lungs. If the patient has spontaneous breathing APRV or bilevel or CPAP methods are the most lung-protective modes.
 When the patient has no breathing a medical ventilator should be used. When the patient has spontaneous breathing can be ventilated using a CPAP machine or an air pump system developed by TU Delft.** 
 
 *Note1: The CPAP machines need to have a filter to avoid ventilating the virus into the air. 
@@ -64,8 +64,8 @@ The available possibilities for patients who do have spontaneous breathing are d
   
   
 ## 4. Pressure control mode when the patient has spontaneous breathing
-As already described at the pressure control mode section in this mode a maximum pressure is maintained for a couple of seconds, then the pressure is decreased to the level of min. pressure. Since, the minimum pressure is not zero, the lung is always inflated and the alveoli can't collapse. The disadvantage of the pressure control is, that if the patient has spontaneous breathing, it might not match the patients breathing rhythm and it can cause anxiety. In the worst case,e.g. coughing it can damage the lungs of the patient. 
-Therefore, if a patient has spontaneous breathing, APRV or bilevel pressure control mode is used. 
+As already described at the pressure control mode section in this mode a maximum pressure is maintained for a couple of seconds, then the pressure is decreased to the level of min. pressure. Since the minimum pressure is not zero, the lung is always inflated and the alveoli can't collapse. The disadvantage of the pressure control is, that if the patient has spontaneous breathing, it might not match the patient's breathing rhythm and it can cause anxiety. In the worst case,e.g. coughing it can damage the lungs of the patient. 
+Therefore, if a patient has spontaneous breathing, APRV, or bilevel pressure control mode is used. 
 
 APRV is a lung-protective control mode that is suitable for patients with ARDS.  It protects lung from exceeding high pressure and the patient can breathe freely.
 
@@ -88,7 +88,7 @@ I. Volume control mode:
 II. Pressure control mode:
   1. Medical ventilator - best solution if available
 
-  2. CPAP device - good solution if available, by keeping constant positive pressure, it prevents the alveoli from collapsing. **Important to use filters and masks with CPAP machines otherwise the virus is ventilated from the machine or patient into the air!!**
+  2. CPAP device - good solution if available, by keeping constant positive pressure, it prevents the alveoli from collapsing. Possible solution is to 3D print valves to connect snorkeling masks and ventilators:[easy-Covid19](https://www.isinnova.it/easy-covid19-eng/) **Important to use filters and masks with CPAP machines otherwise the virus is ventilated from the machine or patient into the air!!** 
 
   3. Ambu bag/ bag valve mask - motorized - with pressure sensors - To keep a constant higher and lower positive pressure the Ambu bag needs to be compressed. When the Ambu bag is empty it needs to be inflated. This results in a negative pressure, that needs to be done fast to avoid collapsing of the alveoli in the lungs. This might work, but it would result in a complex system based on multiple sensors, which works only within given pressure and time values. Keeping in mind, that an Ambu bag works only for a couple of hours, we concluded that an air pump system can provide a safer and more stable solution. Therefore, the time spends on developing a ventilator solution should be focused on developing an air pump system with sensors and filters.
 
