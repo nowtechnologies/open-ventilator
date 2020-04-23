@@ -88,7 +88,7 @@ I. Volume control mode:
 II. Pressure control mode:
   1. Medical ventilator - best solution if available
 
-  2. CPAP device - good solution if available, by keeping constant positive pressure, it prevents the alveoli from collapsing. **Important to use filters and masks with CPAP machines otherwise the virus is ventilated from the machine or patient into the air!!**
+  2. CPAP device - good solution if available, by keeping constant positive pressure, it prevents the alveoli from collapsing. Possible solution is to 3D print valves to connect snorkeling masks and ventilators: [easy-Covid19](https://www.isinnova.it/easy-covid19-eng/) **Important to use filters and masks with CPAP machines otherwise the virus is ventilated from the machine or patient into the air!!**
 
   3. Ambu bag/ bag valve mask - motorized - with pressure sensors - To keep a constant higher and lower positive pressure the Ambu bag needs to be compressed. When the Ambu bag is empty it needs to be inflated. This results in a negative pressure, that needs to be done fast to avoid collapsing of the alveoli in the lungs. This might work, but it would result in a complex system based on multiple sensors, which works only within given pressure and time values. Keeping in mind, that an Ambu bag works only for a couple of hours, we concluded that an air pump system can provide a safer and more stable solution. Therefore, the time spends on developing a ventilator solution should be focused on developing an air pump system with sensors and filters.
 
